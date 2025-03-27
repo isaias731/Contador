@@ -2,7 +2,7 @@ package System.out;
 
 import java.util.Scanner;
 
-public class Contador {
+public class ContagemFor {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
